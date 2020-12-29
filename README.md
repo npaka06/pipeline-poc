@@ -1,2 +1,2 @@
 # pipeline-poc
-pipeline poc 6
+pipeline poc 7
